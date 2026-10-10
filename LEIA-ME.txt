@@ -1,0 +1,7 @@
+LINHA DE SINTRA — APRESENTAÇÃO
+Abra index.html mantendo app.js, style.css e assets juntos.
+Na capa, o talão sai de uma máquina de pagamentos ilustrada.
+Ao avançar, o talão desprende-se e a máquina amplia o ecrã no segundo slide.
+O texto do ecrã é provisório. Recuar repõe o talão.
+Sem movimento em repouso; respeita a preferência de movimento reduzido.
+Sintaxe JavaScript verificada. Animação ainda sem validação visual no navegador.
